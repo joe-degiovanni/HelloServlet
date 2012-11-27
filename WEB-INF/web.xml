@@ -61,6 +61,7 @@
 
     <servlet>
       <servlet-name>Hello</servlet-name>
+      <servlet-class>Test</servlet-class>
     </servlet>
 
     <servlet-mapping>
